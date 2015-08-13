@@ -1,0 +1,1 @@
+This project is movie trailer website that will help you to choose a movie.
